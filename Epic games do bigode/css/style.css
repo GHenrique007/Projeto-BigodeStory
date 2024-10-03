@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+   
+}
+
+header {
+    background: url(../svg/iskubidu\ kd\ voce.svg);
+    height: 720px;
+    width: 1280px;
+    background-repeat: no-repeat;
+
+}
+
+header h1  {
+   color: white;
+}
+
+section.navbar {
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    gap: 70px;
+    
+}
+section.navbar ul {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+
+  
+}
+ section.inicio{
+    color: white;
+ }
+
+section.titlebegin{
+    display: flex;
+    flex-direction: column;
+    margin: 600px;
+}
+
+
+
+
+
+
